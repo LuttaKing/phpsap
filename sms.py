@@ -1,7 +1,7 @@
 import phpsap,requests as rq
 
 phpsap.apiKey='your api key'
-phpsap.username='your usernames'
+phpsap.username='your userNAMEZ'
 
 Receiver='put phone number beginning with +254'
 Message='Example text message.Lutta is awesome :o'
