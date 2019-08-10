@@ -1,7 +1,7 @@
 # !!!!important note before you start
 
 still learning how to upload python modules to PYPI so for now you will have to 
-manually  DOWNLOAD THE PHPSAP into your project directory :o
+manually  DOWNLOAD THE PHPSAP.py into your project directory :o
 
 # Python wrapper for PHP SAP - SMS, AIRTIME, PAYMENTS
 
