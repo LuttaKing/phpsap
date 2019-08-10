@@ -43,13 +43,6 @@ mobileb2b_url='https://renthero.co.ke/phpsap/developer/payments/sapb2b.php'
 mobileb2c_url='https://renthero.co.ke/phpsap/developer/payments/sapb2c.php'
 validation_url='https://renthero.co.ke/payments/sapc2b_validation.php'
 
-###
-### THIS IS THE FIRST PROTOTYPE;
-### JUST UNCOMENT THE REQUEST YOU
-### WISH TO USE BELOW
-### YOU CAN USE PRINT() TO SEE ITS OUTCOME
-###------------------------------------------
-
 
 pwallet_request = rq.get(payment_balance_url,json=pwallet_payload, headers=headers) 
 sms_request = rq.get(sms_url,json=sms_payload, headers=headers)
