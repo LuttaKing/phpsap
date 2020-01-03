@@ -1,7 +1,7 @@
 import requests as rq
 
 #$$$ PYTHON WRAPPER FOR PHP SAP API
-#### FIRST PROTOTYPE
+# FIRST PROTOTYPE
 
 headers={
         'Referer':'https://renthero.co.ke/phpsap/developer/payments/payments_wallet_balance.php',
