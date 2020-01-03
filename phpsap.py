@@ -1,6 +1,6 @@
 import requests as rq
 
-#$$$ PYTHON WRAPPER FOR PHP SAP API
+#$ PYTHON WRAPPER FOR PHP SAP API
 # FIRST PROTOTYPE
 
 headers={
