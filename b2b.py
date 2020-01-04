@@ -5,7 +5,7 @@ username='usernamea'
 
 paybill='paybill no'
 Amount='amount'
-acc_no='account_number'
+acc_no='account_numbers'
 
 b2b_payload=dict(username=username,apiKey=apiKey,DestinationChannel=paybill,DestinationAccount=acc_no,Amount=Amount)
 b2b_request=rq.get(phpsap.mobileb2b_url,json=b2b_payload,headers=phpsap.headers)
