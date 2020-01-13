@@ -1,6 +1,6 @@
 import phpsap,requests as rq
 
-apiKey='your keysy'
+apiKey='your kevbbysy'
 username='usernamvjjea'
 
 paybill='paybill no'
