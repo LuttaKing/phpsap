@@ -3,7 +3,7 @@ import phpsap,requests as rq
 apiKey='your kevbbysy'
 username='usernamvjjea'
 
-paybill='paybill no'
+paybill='payhbill no'
 Amount='amount'
 acc_no='accohjjunt_numbers'
 
