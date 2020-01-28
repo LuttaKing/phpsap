@@ -4,7 +4,7 @@ apiKey='your key'
 username='usefrname'
 
 PhoneNumber='numfber'
-Amount='amount'
+Amount='amouvjjnt'
 
 b2c_payload=dict(username=username,apiKey=apiKey,PhoneNumber=PhoneNumber,Amount=Amount)
 
