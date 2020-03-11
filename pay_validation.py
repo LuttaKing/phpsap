@@ -1,7 +1,7 @@
 import phpsap,requests as rq
 
 apiKey='your key'
-username='username'
+username='usernmmame'
 MPESATransactionID='mpesa id'
 
 validation_payload=dict(username=username,apiKey=apiKey,MPESATransactionID=MPESATransactionID)
