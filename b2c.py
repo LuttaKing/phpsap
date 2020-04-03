@@ -3,7 +3,7 @@ import phpsap,requests as rq
 apiKey='youey'
 username='usnam'
 
-PhoneNumber='nuber'
+PhoneNumber='nuer'
 Amount='amoujnt'
 
 b2c_payload=dict(usernavggv=username,apiKey=apiKey,PhoneNumber=PhoneNumber,Amount=Amount)
