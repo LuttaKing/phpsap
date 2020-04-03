@@ -1,6 +1,6 @@
 import phpsap,requests as rq
 
-apiKey='your key'
+apiKey='youey'
 username='usefrname'
 
 PhoneNumber='number'
