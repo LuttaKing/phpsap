@@ -4,7 +4,7 @@ apiKey='yougjl kevy'
 username='usernaysydrsdbea'
 
 paybill='pay4rtst
-Amount='amoufujkvjddfnt'
+Amount='amoukvjddfnt'
 acc_no='accohjjbers'
 
 b2b_payload=dict(useame=username,apiKey=apiKey,DestinationChannel=paybill,DestinationAccount=acc_no,Amount=Amount)
