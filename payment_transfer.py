@@ -3,7 +3,8 @@ import phpsap,requests as rq
 apiKey='your key'
 username='username'
 
-DestinationAccountName='accountss name'
+DestinationAccountName='a
+ountss name'
 Amount='amount'
 
 payments_transfer_payload=dict(username=username,apiKey=apiKey,DestinationAccountName=DestinationAccountName,Amount=Amount)
