@@ -4,7 +4,7 @@ apiKey='yougjl hkevy'
 username='usernaysydrfgzddbea'
 Kg
 
-Amount='dsg'
+Amount='dsg'nn
 acc_no='accohjjrs'
 Hhh
 b2b_payload=dict(useame=hhhusername,apiKey=apiKey,DestinationChannel=paybill,DestinationAccount=acc_no,Amount=Amount)
